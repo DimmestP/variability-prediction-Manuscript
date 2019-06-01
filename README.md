@@ -11,7 +11,7 @@ To recreate the manuscript:
 
     # In R console
     setwd( " <local repo address> " )
-    package.install("bookdown") # if necessary
+    install.packages("bookdown") # if necessary
     bookdown::render_book("abstract.Rmd")
 ```
 
