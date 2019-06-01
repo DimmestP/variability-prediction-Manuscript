@@ -15,5 +15,5 @@ To recreate the manuscript:
     bookdown::render_book("abstract.Rmd")
 ```
 
-The pdf version of the manuscript will be created in the _book folder.
+The pdf version of the manuscript will be created in a _book folder.
 
